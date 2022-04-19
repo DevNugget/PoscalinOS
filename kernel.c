@@ -2,5 +2,5 @@
 
 int kmain()
 {
-	print("Hello World!", 0x08);
+	print("Hello World!", white);
 }
